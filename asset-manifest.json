@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/koontz-github-pages-test/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/koontz-github-pages-test/static/js/main.d99c3424.chunk.js",
+    "main.js.map": "/koontz-github-pages-test/static/js/main.d99c3424.chunk.js.map",
+    "runtime-main.js": "/koontz-github-pages-test/static/js/runtime-main.029ef36e.js",
+    "runtime-main.js.map": "/koontz-github-pages-test/static/js/runtime-main.029ef36e.js.map",
+    "static/js/2.fd8908f0.chunk.js": "/koontz-github-pages-test/static/js/2.fd8908f0.chunk.js",
+    "static/js/2.fd8908f0.chunk.js.map": "/koontz-github-pages-test/static/js/2.fd8908f0.chunk.js.map",
+    "static/js/3.8f8ae283.chunk.js": "/koontz-github-pages-test/static/js/3.8f8ae283.chunk.js",
+    "static/js/3.8f8ae283.chunk.js.map": "/koontz-github-pages-test/static/js/3.8f8ae283.chunk.js.map",
+    "index.html": "/koontz-github-pages-test/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/koontz-github-pages-test/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.fd8908f0.chunk.js.LICENSE.txt": "/koontz-github-pages-test/static/js/2.fd8908f0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/koontz-github-pages-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.029ef36e.js",
+    "static/js/2.fd8908f0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d99c3424.chunk.js"
+  ]
+}
